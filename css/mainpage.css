@@ -1,9 +1,18 @@
-.apartatdreta{
-    text-align:left;
-    float:right;
-    margin-right:600px;
-    position:relative;
+.leftside, .rightside{
+
+    height:100vh;
+    width: 100%;
 
 }
+
+.leftside{
+    background-color:grey;
+}
+
+.rightside{
+    
+}
+
+
 
 
