@@ -2,8 +2,15 @@
     display:flex;
     background-color: grey;
     flex-wrap:wrap;
-    
+
 }
 #flexcontainer1 > div{
     margin-left:10px;
+}
+#boto{
+    padding:5px;
+    margin-left:20px;
+    font-size: 20px;
+    border-style:bold;
+    border-radius:12px;
 }
