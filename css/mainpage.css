@@ -1,7 +1,6 @@
 
 #flexcontainer1{
     display: flex;
-    background-color:grey;
 }
 
 #flexcontainer1 > div{
@@ -10,6 +9,7 @@
     font-size: 20x;
 }
 
-
-
+#fondo{
+    background-color: grey;
+}
 
