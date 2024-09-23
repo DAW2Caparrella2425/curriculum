@@ -1,1 +1,0 @@
-alert("pagina web de exemple siusplau no hem mateu per qualsevol error");

@@ -1,0 +1,9 @@
+#flexcontainer1{
+    display:flex;
+    background-color: grey;
+    flex-wrap:wrap;
+    
+}
+#flexcontainer1 > div{
+    margin-left:10px;
+}
