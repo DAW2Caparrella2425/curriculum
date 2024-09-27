@@ -51,7 +51,10 @@
 #thirdline{
     font-size: 40px;
 }
-#endofpage{
-    font-size:50px;
-    text-align:center;
+#boto{
+    padding:5px;
+    margin-left:20px;
+    font-size: 20px;
+    border-style:bold;
+    border-radius:12px;
 }

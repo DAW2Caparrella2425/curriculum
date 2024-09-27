@@ -10,10 +10,29 @@
 }
 
 #fondo{
-    background-color: grey;
+    background-color: black;
 }
-.header{
-    text-align:center;
-    
+#flexcontainer{
+    display: flex;
+    background-color: black;
 }
 
+#flexcontainer > div{
+    margin: 10px;
+    padding: 20px;
+    font-size: 20x;
+    color:white;
+}
+a{
+    color:white;
+    text-decoration:none;
+}
+.menu_esquerra{
+    color:white;
+}
+.peu_de_pagina{
+    text-align:center;
+    color:white;
+    background: black;
+    padding:10px;
+}
