@@ -1,3 +1,14 @@
+#flexcontainer{
+    display: flex;
+    background-color: black;
+}
+
+#flexcontainer > div{
+    margin: 10px;
+    padding: 20px;
+    font-size: 20x;
+    color:white;
+}
 #flex-container2 {
     display: flex;
     background-color: grey;
@@ -44,17 +55,13 @@
     background-color:darkblue;
     color:white;
 }
-#secondline{
-    font-size:40px;
-
+a{
+    color:white;
+    text-decoration:none;
 }
-#thirdline{
-    font-size: 40px;
-}
-#boto{
-    padding:5px;
-    margin-left:20px;
-    font-size: 20px;
-    border-style:bold;
-    border-radius:12px;
+.peu_de_pagina{
+    text-align:center;
+    color:white;
+    background: black;
+    padding:14px;
 }

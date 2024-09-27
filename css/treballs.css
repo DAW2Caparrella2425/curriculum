@@ -1,3 +1,14 @@
+#flexcontainer{
+    display: flex;
+    background-color: black;
+}
+
+#flexcontainer > div{
+    margin: 10px;
+    padding: 20px;
+    font-size: 20x;
+    color:white;
+}
 #flexcontainer1{
     display:flex;
     background-color: grey;
@@ -7,10 +18,13 @@
 #flexcontainer1 > div{
     margin-left:10px;
 }
-#boto{
-    padding:5px;
-    margin-left:20px;
-    font-size: 20px;
-    border-style:bold;
-    border-radius:12px;
+.peu_de_pagina{
+    text-align:center;
+    color:white;
+    background: black;
+    padding:10px;
+}
+a{
+    color:white;
+    text-decoration:none;
 }
