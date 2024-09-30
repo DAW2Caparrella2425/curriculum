@@ -65,3 +65,61 @@ a{
     background: black;
     padding:14px;
 }
+@media only screen and (max-width:600px){
+    #flexcontainer{
+        display: flex;
+        background-color: black;
+    }
+    
+    #flexcontainer > div{
+        margin: 10px;
+        font-size: 15x;
+        color:white;
+    }
+    #flex-container2 {
+        display: flex;
+        background-color: grey;
+        flex-wrap:wrap;
+        justify-content: center;
+      }
+      #flex-container1 {
+        display: flex;
+        background-color: yellow;
+        flex-wrap:wrap;
+      }
+    #flex-container3{
+        display:flex;
+        background-color:black;
+        flex-wrap:wrap;
+    }
+    #flex-container4{
+        display: flex;
+        background-color:aqua;
+        flex-wrap:wrap;
+    }
+    #flex-container1 > div{
+        margin: 10px;
+        font-size: 15x;
+        background-color:green;
+    }
+    #flex-container2 > div{
+        margin: 10px;
+        font-size: 15px;
+        background-color:blue;
+    }
+    #flex-container3 > div{
+        margin: 10px;
+        font-size: 15px;
+        background-color:white;
+    }
+    #flex-container4 > div{
+        margin: 10px;
+        font-size: 15x;
+        background-color:darkblue;
+        color:white;
+    }
+    a{
+        color:white;
+        text-decoration:none;
+    }
+}
