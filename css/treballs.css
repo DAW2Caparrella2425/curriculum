@@ -28,3 +28,36 @@ a{
     color:white;
     text-decoration:none;
 }
+@media only screen and (max-width:600px){
+    #flexcontainer{
+        display: flex;
+        background-color: black;
+    }
+    
+    #flexcontainer > div{
+        margin: 10px;
+        padding: 0px;
+        font-size: 15x;
+        color:white;
+    }
+    #flexcontainer1{
+        display:flex;
+        background-color: grey;
+        flex-wrap:wrap;
+    
+    }
+    #flexcontainer1 > div{
+        margin-left:10px;
+    }
+    .peu_de_pagina{
+        text-align:center;
+        color:white;
+        background: black;
+        padding:10px;
+    }
+    a{
+        color:white;
+        text-decoration:none;
+    }
+    
+}
