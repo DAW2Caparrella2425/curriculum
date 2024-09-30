@@ -21,3 +21,28 @@ a{
     background: black;
     padding:10px;
 }
+@media only screen and (max-width:600px){
+    #flexcontainer{
+        display: flex;
+        background-color: black;
+    }
+    
+    #flexcontainer > div{
+        margin: 10px;
+        padding: 20px;
+        font-size: 20x;
+        color:white;
+    }
+    
+    a{
+        color:white;
+        text-decoration:none;
+    }
+    
+    .peu_de_pagina{
+        text-align:center;
+        color:white;
+        background: black;
+        padding:10px;
+    }
+}
