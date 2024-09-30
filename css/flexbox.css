@@ -6,7 +6,7 @@
 #flexcontainer > div{
     margin: 10px;
     padding: 20px;
-    font-size: 20x;
+    font-size: 20px;
     color:white;
 }
 #flex-container2 {
@@ -33,25 +33,25 @@
 #flex-container1 > div{
     margin: 10px;
     padding: 20px;
-    font-size: 20x;
+    font-size: 20px;
     background-color:green;
 }
 #flex-container2 > div{
     margin: 10px;
     padding: 20px;
-    font-size: 20x;
+    font-size: 20px;
     background-color:blue;
 }
 #flex-container3 > div{
     margin: 10px;
     padding: 20px;
-    font-size: 20x;
+    font-size: 20px;
     background-color:white;
 }
 #flex-container4 > div{
     margin: 10px;
     padding: 20px;
-    font-size: 20x;
+    font-size: 20px;
     background-color:darkblue;
     color:white;
 }
@@ -74,7 +74,7 @@ a{
     #flexcontainer > div{
         margin: 10px;
         padding:0px;
-        font-size: 15x;
+        font-size: 15px;
         color:white;
     }
     #flex-container2 {
@@ -100,7 +100,7 @@ a{
     }
     #flex-container1 > div{
         margin: 10px;
-        font-size: 15x;
+        font-size: 15px;
         background-color:green;
     }
     #flex-container2 > div{
@@ -115,7 +115,7 @@ a{
     }
     #flex-container4 > div{
         margin: 10px;
-        font-size: 15x;
+        font-size: 15px;
         background-color:darkblue;
         color:white;
     }

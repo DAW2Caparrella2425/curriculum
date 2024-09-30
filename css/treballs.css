@@ -6,7 +6,7 @@
 #flexcontainer > div{
     margin: 10px;
     padding: 20px;
-    font-size: 20x;
+    font-size: 20px;
     color:white;
 }
 #flexcontainer1{
@@ -37,7 +37,7 @@ a{
     #flexcontainer > div{
         margin: 10px;
         padding: 0px;
-        font-size: 15x;
+        font-size: 15px;
         color:white;
     }
     #flexcontainer1{
