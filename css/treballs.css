@@ -28,7 +28,15 @@ a{
     color:white;
     text-decoration:none;
 }
+#flexcontainer > div:hover{
+    background-color:cyan;
+    color:black;
+}
 @media only screen and (max-width:600px){
+    #flexcontainer > div:hover{
+        background-color:cyan;
+        color:black;
+    }
     #flexcontainer{
         display: flex;
         background-color: black;

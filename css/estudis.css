@@ -9,6 +9,10 @@
     font-size: 20px;
     color:white;
 }
+#flexcontainer > div:hover{
+    background-color:cyan;
+    color:black;
+}
 
 a{
     color:white;
@@ -21,7 +25,15 @@ a{
     background: black;
     padding:10px;
 }
+#flexcontainer > div:hover{
+    background-color:cyan;
+    color:black;
+}
 @media only screen and (max-width:600px){
+    #flexcontainer > div:hover{
+        background-color:cyan;
+        color:black;
+    }
     #flexcontainer{
         display: flex;
         background-color: black;

@@ -22,6 +22,11 @@
     padding: 20px;
     font-size: 20px;
     color:white;
+    
+}
+#flexcontainer > div:hover{
+    background-color:cyan;
+    color:black;
 }
 a{
     color:white;
@@ -38,6 +43,7 @@ a{
 }
 
 @media only screen and (max-width:600px){
+
     
 #flexcontainer1{
     display: flex;
@@ -90,5 +96,9 @@ h1{
 }
 h2{
     font-size:20px
+}
+#flexcontainer > div:hover{
+    background-color:cyan;
+    color:black;
 }
 }
