@@ -42,7 +42,10 @@ a{
     padding:10px;
     bottom:0;
 }
-
+img {
+    width:auto;
+    height:auto;
+}
 @media only screen and (max-width:600px){
 
     
