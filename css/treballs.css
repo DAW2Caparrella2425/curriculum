@@ -25,6 +25,9 @@
     padding:10px;
     bottom: 0;
 }
+.titol{
+    font-size: 50px;
+}
 a{
     color:white;
     text-decoration:none;
@@ -32,6 +35,13 @@ a{
 #flexcontainer > div:hover{
     background-color:cyan;
     color:black;
+}
+p{
+    font-size:17px;
+}
+img{
+    max-width: 100%;
+    height: auto;
 }
 @media only screen and (max-width:600px){
     #flexcontainer > div:hover{
