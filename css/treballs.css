@@ -33,6 +33,10 @@ a{
     background-color:cyan;
     color:black;
 }
+img{
+    width: auto;
+    height: auto;
+}
 @media only screen and (max-width:600px){
     #flexcontainer > div:hover{
         background-color:cyan;
