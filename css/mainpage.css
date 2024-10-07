@@ -43,8 +43,8 @@ a{
     bottom:0;
 }
 img{
-    max-width: auto;
-    max-height: auto;
+    max-width: 100%;
+    height: auto;
 }
 @media only screen and (max-width:600px){
 
